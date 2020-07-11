@@ -12,7 +12,15 @@ https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep
 ## Practice
 
 ### Implement convolution network from scratch using numpy.
+ConvNet_numpy.ipynb
 
 ### Implement convoultion network in tensorflow.
+ConvNet_tensorflow.ipynb
 
 ### image classfication using pytorch.
+ConvNet_tensorflow.ipynb
+
+### Residual Networks(ResNet)
+Residual_Networks_v2a.ipynb   
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun - Deep Residual Learning for Image Recognition (2015).     
+Francois Chollet's GitHub repository: https://github.com/fchollet/deep-learning-models/blob/master/resnet50.py
